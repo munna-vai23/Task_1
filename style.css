@@ -1,0 +1,191 @@
+.ProEdu{
+    font-weight: bolder;
+    
+}
+body{
+    margin: 0px 150px;
+}
+.collapse{
+    margin: 0px 150px;
+
+   
+}
+.nav-item{
+    margin: 0px 30px;
+}
+.btn1{
+    margin-left: 280%;
+}
+.carousel{
+    margin-top: 40px;
+}
+.carousel-item div{
+    margin: 100px;
+}
+.secondsection{
+    margin-top: 30px;
+    margin-bottom: 120px;
+}
+.secondsection-text{
+    text-align: center;
+    margin: 30px 250px;
+}
+.cardmain{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.cardmain{
+    display: flex;
+    flex-wrap: wrap;
+}
+.cardmain1{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.cardmain2{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.cardmain3{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.explore-sec{
+    display: flex;
+
+}
+.img1{
+    height: 10px;
+    padding: 20px;
+}
+.imagecard{
+    align-content: center;
+    background-color: antiquewhite;
+}
+.card-ready{
+    display: flex;
+    flex-direction: row;
+   padding: 50px;
+   margin-right: 20px;
+    background-color: rgb(220, 220, 228);
+    
+}
+.student {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+.studentcard1{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.studentcard2{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.btn3{
+    margin: 25px 20px;
+    
+}
+.viewall{
+    width: 120px;
+}
+.cardmain div{
+    justify-content: space-around;
+}
+.explore{
+    margin: 30PX 0PX;
+}
+.READY{
+    margin: 100PX 0PX;
+}
+.succesful{
+    margin: 150px 0px;
+}
+
+.images
+{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.c800{
+text-align: center;
+margin-bottom: 40px;
+}
+.company{
+    margin: 200px 0px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 100px 30px 30px 30px;
+    border-radius: 4px;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+@media only screen and (min-width: 601px) and (max-width: 992px){
+    .secondsection-text{
+        
+        text-align: center;
+        margin: auto;
+    }
+    .cardmain1{
+        display: flex;
+        flex-direction: column;
+       
+        justify-content: center;
+        
+    }
+    .cardmain2{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        
+    }
+    .cardmain3{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        
+    }
+    .cardmain11, .cardmain12, .cardmain21 {
+        width: 100%;
+    }
+    .student div{
+        display: flex;
+        flex-direction: column;
+        
+        gap: 20px;
+    }
+    body{
+        margin: 0px 80px;
+    }
+}
+   
+
+
+@media only screen and (min-width: 500px){
+    .secondsection-text{
+        
+        text-align: center;
+        margin: auto;
+    }
+    
+    body{
+        margin: 0px 50px;
+    }
+}
+
